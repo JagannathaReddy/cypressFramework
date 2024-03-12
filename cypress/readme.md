@@ -16,6 +16,7 @@ The Framework structure contains.
 4) Support: In this  folder you will get all the support files like Utilities. In utilities  file created a api call to get the orderId to evaluate againest captures text from the UI
 5) Environment File: This includes  all the environment variables that needs to be set before running any tests.
 
+
     
    
 Note: When I started working on API Test scenarios and UI Error messages for AWB is  not able to capture because the site is not running after 8PM.
