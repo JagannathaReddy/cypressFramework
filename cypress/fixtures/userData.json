@@ -1,0 +1,20 @@
+{
+    "orders": [
+    {
+        "orderId":"123456789",
+        "message":" Error: Order numbers must be 8 characters long"
+    },
+      {
+        "orderId":"abcdefghij",
+        "message":" Error: Invalid order numbers format"   
+    }
+],
+        "awbNumbers":[{
+            "awbId":"AB12345678",
+            "message":""
+        },
+    {
+        "awbId":"ABCDEFGHUI",
+        "message":""   
+    }]
+}

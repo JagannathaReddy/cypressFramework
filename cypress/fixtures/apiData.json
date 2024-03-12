@@ -1,0 +1,34 @@
+{"ordersData":
+[
+    {
+    "orderId":"47294750"
+},
+{
+    "orderId":"abcdefghIJ"
+},
+{
+    "orderId":"123456789"
+},
+{
+    "orderId":"123456"
+    }
+    ],
+    "awbData":[
+        {
+            "awbId":"YJ10499525"
+        },
+        {
+            "awbId":"12345567891"
+        },
+        {
+            "awbId":"123455678911"
+        },
+        {
+            "awbId":""
+        },
+        {
+            "awbId":"12345"
+        }
+
+    ]
+}
