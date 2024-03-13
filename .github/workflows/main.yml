@@ -11,12 +11,6 @@ jobs:
       - name: Cypress run
         uses: cypress-io/github-action@v6
         with:
-          command: npm run TestWithReportGeneration
           browser: chrome
           
-      - name: Upload Report on GitHub Actions
-        uses: actions/upload-artifact@v2
-        with:
-          name: HTML_Report
-          path: cypress/reports/Results
-          retention-days: 2 
+
